@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Next.js applications where the app fails to render correctly, resulting in a blank screen. The `bug.js` file contains the problematic code, while `bugSolution.js` provides a solution to resolve the rendering issue. The issue is usually related to incorrect usage of hooks or data fetching mechanisms.
